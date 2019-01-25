@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](https://sanyabt.github.io/files/Resume.pdf)
+[PDF](https://sanyabt.github.io/files/Resume.pdf)

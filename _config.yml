@@ -39,8 +39,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -88,12 +86,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sanyabt"
+  github           : "sanyabt"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sanya-bathla-taneja/"
+  linkedin         : "sanya-bathla-taneja/"
   orcid            :
   pinterest        :
   soundcloud       :
