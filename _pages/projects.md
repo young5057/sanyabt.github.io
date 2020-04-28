@@ -7,3 +7,4 @@ redirect_from:
   - /projects.html
 ---
 
+To be updated soon.

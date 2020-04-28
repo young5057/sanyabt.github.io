@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Sanya Bathla Taneja"
 title_separator          : "-"
 name                     : &name "Sanya Bathla Taneja"
-description              : &description "Master's student at University of Pittsburgh"
+description              : &description "PhD student at University of Pittsburgh"
 url                      : https://sanyabt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sanyabt.github.io"
@@ -73,7 +73,7 @@ analytics:
 author:
   name             : "Sanya Bathla Taneja"
   avatar           : "profile.jpeg"
-  bio              : "MS Intelligent Systems University of Pittsburgh"
+  bio              : "Intelligent Systems Program University of Pittsburgh"
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=rWJ8yl0AAAAJ&hl=en"
