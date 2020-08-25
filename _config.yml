@@ -1,10 +1,10 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanya Bathla Taneja"
+title                    : "Homepage of Yang Wang"
 title_separator          : "-"
-name                     : &name "Sanya Bathla Taneja"
-description              : &description "PhD student at University of Pittsburgh"
-url                      : https://sanyabt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yang Wang"
+description              : &description "Ph.D. student at University of Pittsburgh"
+url                      : https://young5057.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "young5057.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -71,13 +71,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sanya Bathla Taneja"
+  name             : "Yang Wang"
   avatar           : "profile.jpeg"
-  bio              : "Intelligent Systems Program University of Pittsburgh"
+  bio              : "Ph.D. student in Information Science "
   location         : "Pittsburgh, PA"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=rWJ8yl0AAAAJ&hl=en"
-  email            : "sbt12@pitt.edu"
+  employer         : "University of Pittsburgh"
+  googlescholar    : ""
+  email            : "yaw70@pitt.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -86,12 +86,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sanyabt"
+  github           : "young5057"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "sanya-bathla-taneja/"
+  linkedin         : ""
   orcid            :
   pinterest        :
   soundcloud       :
