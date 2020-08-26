@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Visweswaran S, Colditz JB, O’Halloran P, Han NR, **Taneja SB**, Welling J, Chu KH, Sidani JE, Primack BA, Machine Learning Classifiers for Twitter Surveillance of Vaping: Comparative Machine Learning Study, J Med Internet Res 2020;22(8):e17478, URL: https://www.jmir.org/2020/8/e17478, DOI: 10.2196/17478
+**Yang Wang**. Study on the Effect of Multiple Data Assimilation Containing Radar Data on WRF Simulation. American Geophysical Union Fall Meeting, 2019, San Francisco.
 
-Gupta A, **Taneja SB**, Malik G, Vij S, Tayal DK, Jain A. SLANGZY: a fuzzy logic-based algorithm for English slang meaning selection. Progress in Artificial Intelligence. 2019 Apr 1;8(1):111-21.
+**Yang Wang**, Chuanzhe Li, Jia Liu, Fuliang Yu, Qingtai Qiu, Jiyang Tian and Mengjie Zhang. Multivariate Analysis of Joint Probability of Different Rainfall Frequencies Based on Copulas. WATER, 2017, 9(3), 198. 
 
-Abhishek, **Taneja SB**, Malik G, Anand A, Awekar A. Fine-grained Entity Recognition with Reduced False Negatives and Large Type Coverage. CoRR. 2019.
+**Yang Wang**, Chuanzhe Li, Mengjie Zhang, Jia Liu and Hanjiang Nie. Research of Tide Level Consistency Correction for Nanjing Station, MATERIALS SCIENCE FORUM, 110(3), 310-316.
+
+Tian J, Liu J, **Wang Yang**, et al. A coupled atmospheric–hydrologic modeling system with variable grid sizes for rainfall–runoff simulation in semi-humid and semi-arid watersheds: how does the coupling scale affects the results?[J]. Hydrology and Earth System Sciences, 2020, 24(8): 3933-3949.
+
+Chuanzhe Li, Jia Liu, Fuliang Yu, **Yang Wang**, Qingtai Qiu. Quantitative evaluation on the changes of the flood-season streamflow caused by climate change and human activities in Yanhe River Basin of the Loess Plateau. Seventh International Conference on Flood Management.
